@@ -1,7 +1,8 @@
 #!/bin/bash
 
 cd /blue/mcb4934/share/robert.estes
-mkdir Homework01 | cd Homework01
+mkdir Homework01 
+cd Homework01
 pwd
 wget https://download.maizegdb.org/Zm-B73-REFERENCE-NAM-5.0/Zm-B73-REFERENCE-NAM-5.0_Zm00001eb.1.gff3.gz
 wget https://download.maizegdb.org/Zm-B73-REFERENCE-NAM-5.0/Zm-B73-REFERENCE-NAM-5.0.fa.gz
